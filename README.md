@@ -1,0 +1,1 @@
+The Simple HTML, CSS, and JavaScript Code Editor is a minimalist web application enabling users to write HTML, apply CSS styles, and perform JavaScript operations in a single interface. This straightforward tool provides a clean coding environment where users can experiment with their code snippets effortlessly.
